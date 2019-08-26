@@ -1,0 +1,2 @@
+spring:
+  profiles: test-1.0
